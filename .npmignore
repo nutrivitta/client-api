@@ -1,0 +1,4 @@
+.npmignore
+.gitignore
+/src
+webpack.config.js
