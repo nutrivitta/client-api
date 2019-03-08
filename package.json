@@ -1,6 +1,6 @@
 {
   "name": "@nutrivitta/client-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "build": "npx webpack"
   },
@@ -20,5 +20,9 @@
   },
   "peerDependencies": {
     "axios": "~0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutrivitta/client-api"
   }
 }
